@@ -2,9 +2,9 @@
 This is a repository to store links and notes that i used to solve an issue or implement a feature.
 
 ## Table of Contents
-1. [Hugging Face space](#Sync-github-repo-to-hf-space)
+1. [Hugging Face space](#hugging-face-space)
 2. [Github workflows](#github-workflows)
-2. [Virtual Environment](#Virtual-Environment)
+2. [Virtual Environment](#virtual-environment)
 
 ---
 ## Hugging Face space
