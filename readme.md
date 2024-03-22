@@ -9,7 +9,7 @@ This is a repository to store links and notes that i used to solve an issue or i
 ---
 ## Hugging Face space
 ### Links
-1. [How to Sync Hugging Face Spaces with a GitHub Repository](git@github.com:mattoofahad/blog-notes.git)
+1. [How to Sync Hugging Face Spaces with a GitHub Repository](https://github.com/ruslanmv/How-to-Sync-Hugging-Face-Spaces-with-a-GitHub-Repository)
 ### Notes
 
 ---
